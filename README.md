@@ -1,0 +1,1 @@
+# make.fun entry workspace
